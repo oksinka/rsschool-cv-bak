@@ -18,6 +18,7 @@
 
 ## Code example:
 #### I wasn't solved tasks yet, so I present the solution when registering on Codewars.
+
 ```
 function multiply (a, b) {
 return a * b
