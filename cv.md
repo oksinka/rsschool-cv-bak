@@ -4,6 +4,7 @@
 ## Contact information:
 ### e-mail: oxinka@mail.ru
 ### telegram: @oxinka
+### VKontakte: id109091977
 
 
 ## Briefly About Myself:
