@@ -25,12 +25,12 @@ return a * b
 ```
 
 
+## Work experience
+#### First working example [My CV for GitHub] (https://github.com/oksinka/rsschool-cv/edit/main/README.md)
+
 ## Education
 #### Volgograd State University.
 
-
-## Work experience
-#### First working example [My CV for GitHub] (https://github.com/oksinka/rsschool-cv/edit/main/README.md)
 
 
 ## Courses:
